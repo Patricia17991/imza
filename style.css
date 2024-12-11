@@ -1,6 +1,6 @@
 body {
   background: url('https://img.freepik.com/premium-photo/abstract-blurred-sky-colorful_40299-22.jpg') no-repeat center center fixed;
--webkit-background-size: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -103,7 +103,7 @@ body {
 }
 
 .signature {
-  border-bottom: 1px solid rgba(0,0,0,0.25)
+  border-bottom: 1px solid rgba(0,0,0,0.25);
 }
 
 .letter-bank {
